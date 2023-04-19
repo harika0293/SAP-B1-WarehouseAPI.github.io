@@ -1,0 +1,1010 @@
+[
+    {
+        "id": "01",
+        "whsCode": "01",
+        "whsName": "N/A",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "A_BAY1",
+        "whsCode": "A_BAY1",
+        "whsName": "WEL-03972 L200",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "A_BAY2",
+        "whsCode": "A_BAY2",
+        "whsName": "WEL-04714 & WEL-04715 S200S",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "A_BAY3",
+        "whsCode": "A_BAY3",
+        "whsName": "Exihibition",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "A_BAY4",
+        "whsCode": "A_BAY4",
+        "whsName": "WEL-03952 R330",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "A_BAY5",
+        "whsCode": "A_BAY5",
+        "whsName": "WEL-03979 UT2m X 6th",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "A_BAY6",
+        "whsCode": "A_BAY6",
+        "whsName": "SS8N M/C stock Do not use",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "AdvPln",
+        "whsCode": "AdvPln",
+        "whsName": "IN-WEL-N",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "AlphaAdv",
+        "whsCode": "AlphaAdv",
+        "whsName": "NON-H SERIES ADVANCE PLANNING",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-1",
+        "whsCode": "BAY-1",
+        "whsName": "L6ABNL",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-10",
+        "whsCode": "BAY-10",
+        "whsName": "WEL-04695 & WEL-04696 S200D Export",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-11",
+        "whsCode": "BAY-11",
+        "whsName": "WEL-04023 ALPHA-200",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-12",
+        "whsCode": "BAY-12",
+        "whsName": "WEL-04440 Sagar 4th",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-13",
+        "whsCode": "BAY-13",
+        "whsName": "WEL-04546 Alpha 4 star 2nd",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-14",
+        "whsCode": "BAY-14",
+        "whsName": "WEL-02460 UT-2 60 POS",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-15",
+        "whsCode": "BAY-15",
+        "whsName": "WEL-04672 L6ABNL",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-16",
+        "whsCode": "BAY-16",
+        "whsName": "UT2c-56 WEL-03554",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-17",
+        "whsCode": "BAY-17",
+        "whsName": "WEL-04518 CT-380 - 48 position",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-18",
+        "whsCode": "BAY-18",
+        "whsName": "WEL-03844 CT-380 -144",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-19",
+        "whsCode": "BAY-19",
+        "whsName": "WEL-04437 S200D Sagar",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-2",
+        "whsCode": "BAY-2",
+        "whsName": "WEL-CW LENGTH COUNTER BKT ASSLY",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-20",
+        "whsCode": "BAY-20",
+        "whsName": "Udey udyog return machine stock",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-21",
+        "whsCode": "BAY-21",
+        "whsName": "WEL-04000 TP66",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-3",
+        "whsCode": "BAY-3",
+        "whsName": "WEL-04697 ALPHA200 Export",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-4",
+        "whsCode": "BAY-4",
+        "whsName": "WEL-2586 CD-60 Export..",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-5",
+        "whsCode": "BAY-5",
+        "whsName": null,
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-6",
+        "whsCode": "BAY-6",
+        "whsName": null,
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-7",
+        "whsCode": "BAY-7",
+        "whsName": "SERVO WINDER",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-8",
+        "whsCode": "BAY-8",
+        "whsName": null,
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "BAY-9",
+        "whsCode": "BAY-9",
+        "whsName": "CW ADVANCE PLANNING",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "CNS",
+        "whsCode": "CNS",
+        "whsName": "CONSUMABLES",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "CstRect",
+        "whsCode": "CstRect",
+        "whsName": "Stock Recd From Customers",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "D_Stock",
+        "whsCode": "D_Stock",
+        "whsName": "Dead Stock Others",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "DG_RWK",
+        "whsCode": "DG_RWK",
+        "whsName": "DESIGN REWORK",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "DMG",
+        "whsCode": "DMG",
+        "whsName": "Damaged- Returned from Customers",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "DSDTDC",
+        "whsCode": "DSDTDC",
+        "whsName": "Dead Stock Due to Drawing Change",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "FAsly",
+        "whsCode": "FAsly",
+        "whsName": "Final Assembly",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "FG-WEL-E",
+        "whsCode": "FG-WEL-E",
+        "whsName": "Finished Good Warehouse- Excisable",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "FG-WEL-N",
+        "whsCode": "FG-WEL-N",
+        "whsName": "Finished Good Warehouse- GST",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "FXAST",
+        "whsCode": "FXAST",
+        "whsName": "FIXED ASSETS",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "FY2021",
+        "whsCode": "FY2021",
+        "whsName": "FY2021 DIFF",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "FY2122",
+        "whsCode": "FY2122",
+        "whsName": "FY2122 DIFF",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "G_Box",
+        "whsCode": "G_Box",
+        "whsName": "Gear Box Floor",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "GH-13-09",
+        "whsCode": "GH-13-09",
+        "whsName": "NEW GHOST STOCK WHSE",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY1",
+        "whsCode": "H_BAY1",
+        "whsName": "CD-60/H series Shortage sub assembly child item",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY10",
+        "whsCode": "H_BAY10",
+        "whsName": "ZITEX",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY11",
+        "whsCode": "H_BAY11",
+        "whsName": "SPENCER H9S WEL-03607",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY12",
+        "whsCode": "H_BAY12",
+        "whsName": "WEL-04773 H-9S BRIMA",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY13",
+        "whsCode": "H_BAY13",
+        "whsName": "H10 KAPI WEL-04045",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY14",
+        "whsCode": "H_BAY14",
+        "whsName": "WEL-04409 SHIV TEXTILE H10",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY15",
+        "whsCode": "H_BAY15",
+        "whsName": "wel-03702  RIDHI TEXTILE H9S",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY16",
+        "whsCode": "H_BAY16",
+        "whsName": "WEL-04531 H10S BRAHMANI TEX",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY17",
+        "whsCode": "H_BAY17",
+        "whsName": "WEL-04315 SHIV SHAKTI H10",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY18",
+        "whsCode": "H_BAY18",
+        "whsName": "WEL-04625 L-200",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY19",
+        "whsCode": "H_BAY19",
+        "whsName": "WEL-04685 H9S MANIDHAR",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY2",
+        "whsCode": "H_BAY2",
+        "whsName": "WEL-03929 H10 MAHEK",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY20",
+        "whsCode": "H_BAY20",
+        "whsName": "wel-04691 eagle H9S",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY3",
+        "whsCode": "H_BAY3",
+        "whsName": "WEL-04821 H8S MURLIDHAR",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY4",
+        "whsCode": "H_BAY4",
+        "whsName": "WEL-04662 H8S COLOUR TRENTZ",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY5",
+        "whsCode": "H_BAY5",
+        "whsName": "WEL-03972 VIJAYALAXMI L-200",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY6",
+        "whsCode": "H_BAY6",
+        "whsName": "WEL-04749 H9S SHITAL",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY7",
+        "whsCode": "H_BAY7",
+        "whsName": "WEL-04325 SIDDHARTH H9",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY8",
+        "whsCode": "H_BAY8",
+        "whsName": "EXPORT LAMAYA",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_BAY9",
+        "whsCode": "H_BAY9",
+        "whsName": "CD60 DISASSEBLY RAJESH PATEL",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "H_Series",
+        "whsCode": "H_Series",
+        "whsName": "H-series Store",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "HSAdvPln",
+        "whsCode": "HSAdvPln",
+        "whsName": "H Series Advance Planning",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "HSMSL",
+        "whsCode": "HSMSL",
+        "whsName": "H Series MSL whse",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "HS-OS",
+        "whsCode": "HS-OS",
+        "whsName": "HIGH SPEED RAPIER OFFSITE WHSE",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "IC_DShip",
+        "whsCode": "IC_DShip",
+        "whsName": "IC Drop-Ship",
+        "locationId": 1,
+        "locName": "Delhi"
+    },
+    {
+        "id": "Imp_Whs",
+        "whsCode": "Imp_Whs",
+        "whsName": "Import Rapier Parts Whse",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "IN-WEL-E",
+        "whsCode": "IN-WEL-E",
+        "whsName": null,
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "IN-WEL-N",
+        "whsCode": "IN-WEL-N",
+        "whsName": "Inward Warehouse- GST",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "JW-Exc",
+        "whsCode": "JW-Exc",
+        "whsName": "Rework Whse -Inhouse",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "M_Out",
+        "whsCode": "M_Out",
+        "whsName": "Manual OutSite",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "M1-RWK",
+        "whsCode": "M1-RWK",
+        "whsName": "MARVAL REWORK WHSE",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "Mc&A_Rej",
+        "whsCode": "Mc&A_Rej",
+        "whsName": "Machine/Assembly Rejection Whse",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "MSt",
+        "whsCode": "MSt",
+        "whsName": "Main Store",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "OS-WEL-E",
+        "whsCode": "OS-WEL-E",
+        "whsName": "Offsite Warehouse (Job Work)- GST",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "P_BAY1",
+        "whsCode": "P_BAY1",
+        "whsName": "CD60 WEL-04746",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "P_BAY2",
+        "whsCode": "P_BAY2",
+        "whsName": "WEL-04690 Colour Trendz Industries 240 POS",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "P_BAY3",
+        "whsCode": "P_BAY3",
+        "whsName": null,
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "P_BAY4",
+        "whsCode": "P_BAY4",
+        "whsName": null,
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "PCWAdvPl",
+        "whsCode": "PCWAdvPl",
+        "whsName": "PCW ADVANCE PLANING",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "PCWStore",
+        "whsCode": "PCWStore",
+        "whsName": "PCWStore",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "R&D",
+        "whsCode": "R&D",
+        "whsName": "Research & Development",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RAP_Str",
+        "whsCode": "RAP_Str",
+        "whsName": "Rapier Store",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "REJ-E",
+        "whsCode": "REJ-E",
+        "whsName": "DO NOT USE",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "Rej-INH",
+        "whsCode": "Rej-INH",
+        "whsName": "In-House Rejection (During Production)",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "REJ-N",
+        "whsCode": "REJ-N",
+        "whsName": "Inward Rejection-GST",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RP_UND",
+        "whsCode": "RP_UND",
+        "whsName": "Rapier Undeclared Shortage",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RP_WAR",
+        "whsCode": "RP_WAR",
+        "whsName": "Rapier Warrenty and Replacement",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RP-B10",
+        "whsCode": "RP-B10",
+        "whsName": null,
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RP-B11",
+        "whsCode": "RP-B11",
+        "whsName": "AERO 06 MACHINE",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RP-BAY-1",
+        "whsCode": "RP-BAY-1",
+        "whsName": "Shree Balaji Textiles",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RPBAY12",
+        "whsCode": "RPBAY12",
+        "whsName": "brahmani",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RPBAY13",
+        "whsCode": "RPBAY13",
+        "whsName": "rap",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RPBAY14",
+        "whsCode": "RPBAY14",
+        "whsName": null,
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RP-BAY-2",
+        "whsCode": "RP-BAY-2",
+        "whsName": "OM TEX DOBBY 08 MACHINE",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RP-BAY-3",
+        "whsCode": "RP-BAY-3",
+        "whsName": "Jacq-04",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RP-BAY-4",
+        "whsCode": "RP-BAY-4",
+        "whsName": "MARVAL R & D [SULZER]",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RP-BAY-5",
+        "whsCode": "RP-BAY-5",
+        "whsName": "Rapier Import",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RP-BAY-6",
+        "whsCode": "RP-BAY-6",
+        "whsName": "R-6100 R&D",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RP-BAY-7",
+        "whsCode": "RP-BAY-7",
+        "whsName": "OM TEXTILES 10 TAPPET",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RP-BAY-8",
+        "whsCode": "RP-BAY-8",
+        "whsName": "Fortune Rao-20 m/c",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RP-BAY-9",
+        "whsCode": "RP-BAY-9",
+        "whsName": "Actual Sub Assly Stock",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RPCA",
+        "whsCode": "RPCA",
+        "whsName": "Rapier Commonl Assembly Whse",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "RPFA",
+        "whsCode": "RPFA",
+        "whsName": "Rapier Final Assembly",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SAC-SPR",
+        "whsCode": "SAC-SPR",
+        "whsName": "Sachin-Spares",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SbAsly",
+        "whsCode": "SbAsly",
+        "whsName": "Rapier Sub Assembly Stock",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "ScrapWhs",
+        "whsCode": "ScrapWhs",
+        "whsName": "Scrap Warehouse",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SHFT",
+        "whsCode": "SHFT",
+        "whsName": "SHAFTING DEPT",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SNI_NEx",
+        "whsCode": "SNI_NEx",
+        "whsName": "TFO ERECTION WHSE",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SPR",
+        "whsCode": "SPR",
+        "whsName": "SPARES STORE SACHIN",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SPRQC",
+        "whsCode": "SPRQC",
+        "whsName": "SPARE QC",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SubStore",
+        "whsCode": "SubStore",
+        "whsName": "Sub-Store",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SZ_Adv_P",
+        "whsCode": "SZ_Adv_P",
+        "whsName": "Sizing Advance Planing",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SZ_Bay",
+        "whsCode": "SZ_Bay",
+        "whsName": "Sizing BAY",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SZ_CstRe",
+        "whsCode": "SZ_CstRe",
+        "whsName": "Sizing Stock Recd From Customers",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SZ_IN",
+        "whsCode": "SZ_IN",
+        "whsName": "Sizing Inward Warehouse",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SZ_R&D",
+        "whsCode": "SZ_R&D",
+        "whsName": "Sizing Research & Development",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SZ_Scrap",
+        "whsCode": "SZ_Scrap",
+        "whsName": "Sizing Scrap Warehouse",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SZ_Store",
+        "whsCode": "SZ_Store",
+        "whsName": "Sizing Store",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SZ_UND",
+        "whsCode": "SZ_UND",
+        "whsName": "Sizing Undeclared Shortage",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SZ_WAR",
+        "whsCode": "SZ_WAR",
+        "whsName": "Sizing Warrenty and Replacement",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SZ-INH",
+        "whsCode": "SZ-INH",
+        "whsName": "Sizing In-House Rejection (During Production)",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SZ-OS",
+        "whsCode": "SZ-OS",
+        "whsName": "Sizing Offsite Warehouse",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "SZ-REJ-N",
+        "whsCode": "SZ-REJ-N",
+        "whsName": "Sizing Rejection",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "TFO_UND",
+        "whsCode": "TFO_UND",
+        "whsName": "TFO Undeclared Shortage",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "TFO_WAR",
+        "whsCode": "TFO_WAR",
+        "whsName": "TFO Warrenty and Replacement",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "TMP",
+        "whsCode": "TMP",
+        "whsName": "Temporary GR Whse - Only Billing",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "TMP1",
+        "whsCode": "TMP1",
+        "whsName": "Temporary for Stock Correction",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "Tools",
+        "whsCode": "Tools",
+        "whsName": "Tools Store",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "TradRpl",
+        "whsCode": "TradRpl",
+        "whsName": "Trading Replacement",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "TradWhse",
+        "whsCode": "TradWhse",
+        "whsName": "Trading Warehouse",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "UDH-SPR",
+        "whsCode": "UDH-SPR",
+        "whsName": "UDHNA-Spares",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "Und_Rep",
+        "whsCode": "Und_Rep",
+        "whsName": "Under Repairing",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "WESfloor",
+        "whsCode": "WESfloor",
+        "whsName": "WES Floor Warehouse",
+        "locationId": 3,
+        "locName": "Udhna"
+    },
+    {
+        "id": "WES-IN-E",
+        "whsCode": "WES-IN-E",
+        "whsName": "WES Inward Warehouse - Excisable",
+        "locationId": 3,
+        "locName": "Udhna"
+    },
+    {
+        "id": "WES-IN-N",
+        "whsCode": "WES-IN-N",
+        "whsName": "WES Inward Warehouse - GST",
+        "locationId": 3,
+        "locName": "Udhna"
+    },
+    {
+        "id": "WESstore",
+        "whsCode": "WESstore",
+        "whsName": "WES Store Warehouse",
+        "locationId": 3,
+        "locName": "Udhna"
+    },
+    {
+        "id": "WS",
+        "whsCode": "WS",
+        "whsName": "Work Shop",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "WSQC",
+        "whsCode": "WSQC",
+        "whsName": "Work Shop QC",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "WTE-SPR",
+        "whsCode": "WTE-SPR",
+        "whsName": "DADRA Spares",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    },
+    {
+        "id": "WTE-STK",
+        "whsCode": "WTE-STK",
+        "whsName": "WTE PURCHASE WHSE",
+        "locationId": 2,
+        "locName": "HOJIWALA"
+    }
+]
